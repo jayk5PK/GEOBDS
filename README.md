@@ -1,5 +1,3 @@
-# GEOBDS
-สำหรับการศึกษาด้านภูมิศาสตร์
 <!DOCTYPE html>
 <html>
 <head>
